@@ -100,3 +100,7 @@ curl -X POST http://localhost:8000/api/v1/feed \
 - **Backend**: Python 3.12, FastAPI, Pydantic v2, Uvicorn
 - **Frontend**: Vanilla HTML/CSS/JS, Fetch API, CSS animations
 - **Документація**: Swagger UI (вбудована в FastAPI)
+
+- Vercel - https://tamagotchi-project-two.vercel.app
+- API Render - https://tamagotchi-api-pltm.onrender.com/docs
+- 
